@@ -1,5 +1,0 @@
-[http]
-    proxy = http://Ricardork:calma2667@governadoria.parana:8080
-
-[https]
-    proxy = https://Ricardork:calma2667@governadoria.parana:8080
